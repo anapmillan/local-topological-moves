@@ -15,7 +15,7 @@ These programs are distributed by the authors in the hope that it will be useful
 
 If you use any of these codes please cite:
 
-[1] 2. A. P. Millan, R. Ghorbanchian, N. Defenu, F. Battiston and G. Bianconi "Local topological moves determine global diffusion properties of hyperbolic higher-order networks". Physical Review E 104, 054302 (2021).
+[1] A. P. Millan, R. Ghorbanchian, N. Defenu, F. Battiston and G. Bianconi "Local topological moves determine global diffusion properties of hyperbolic higher-order networks". Physical Review E 104, 054302 (2021).
 
 [2] G. Bianconi and C. Rahmede. "Network geometry with flavour: from complexity to quantum geometry". Physical Review E 93, 032315 (2016).
 
